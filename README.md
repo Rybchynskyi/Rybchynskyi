@@ -1,6 +1,6 @@
 👋 Hi, I’m Alex
 
-I'm a full-stack web developer with a passion for turning ideas (even in words) into working web applications ❤️‍🔥
+I'm a full-stack web developer with a passion to turn ideas (even in words) into working web applications ❤️‍🔥
 
 Whether I'm working independently or with a team, I bring a variety of skills to every project, including business analysis, UX/UI design, and application development.
 
@@ -32,7 +32,7 @@ My technikal stack:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 
-Feel free to reach out to me at:
+Feel free to reach me out at:
 
 - 💬 telegram https://t.me/Rybchynskyi
 - 💬 facebook https://www.facebook.com/alexandr.rybchinskij
