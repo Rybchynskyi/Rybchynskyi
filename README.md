@@ -4,7 +4,7 @@ I'm a full-stack web developer with a passion to turn ideas (even in words) into
 
 Whether I'm working independently or with a team, I bring a variety of skills to every project, including business analysis, UX/UI design, and application development.
 
-My technikal stack:
+My technical stack:
 
 🛠️ Front
 
