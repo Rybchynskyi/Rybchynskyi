@@ -31,5 +31,6 @@ My technical stack:
 Feel free to reach me out at:
 
 - 💬 telegram https://t.me/Rybchynskyi
-- 💬 facebook https://www.facebook.com/alexandr.rybchinskij
+- 💬 facebook https://www.facebook.com/o.rybchynskyi/
+- 💬 linkedIn https://www.linkedin.com/in/orybchynskyi/
 - 💬 or you can write me on my mail: mailto:alexandr.rybchinskij@gmail.com
