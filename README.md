@@ -1,6 +1,6 @@
 👋 Hi, I’m Alex
 
-I'm a full-stack web developer with a passion to turn ideas (even in words) into working web applications ❤️‍🔥
+I'm a full-stack web developer with a passion to turn ideas (even from scratch) into working web applications ❤️‍🔥
 
 Whether I'm working independently or with a team, I bring a variety of skills to every project, including business analysis, UX/UI design, and application development.
 
